@@ -8,6 +8,9 @@ Control the white square.
 Move up and down to dodge incoming obstacles.
 Avoid hitting obstacles.
 
+Controls:
+left mouse click: move up and down
+
 ✨ Features
 Simple and minimal gameplay
 Fast-paced obstacle avoidance
