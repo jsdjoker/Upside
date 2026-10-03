@@ -20,7 +20,8 @@ This project was built to practice Unity game development and improve my underst
 
 ##  Controls
 
--Mouse Click Move the square up/down 
+-Mouse Click 
+-Move the square up/down 
 
 ##  Objective
 
